@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pest Detection</title>
+</head>
+<body>
+    <h1>Pest Detection</h1>
+    
+    <form action="/" method="post" enctype="multipart/form-data">
+        <input type="file" name="image_name" accept="image/*">
+        <button type="submit">Submit</button>
+        
+        <br>
+        
+        <button type="submit" name="algorithm" value="cnn">CNN</button>
+        <button type="submit" name="algorithm" value="yolov3">YOLOv3</button>
+        <!-- Add more buttons for other algorithms if needed -->
+    </form>
+
+    {% if upload %}
+        <h2>Uploaded Image:</h2>
+        <img src="{{ url_for('static', filename='upload/' + upload_image) }}" alt="Uploaded Image">
+        <div class="container">
+            <br><br>
+            <table>
+                <tr>
+                    <td>
+                        <img class="rounded float-left img-fluid" src="/static/upload/{{ upload_image }}" alt=""  >
+                    </td>
+                    <td>
+                        <img class="rounded float-right img-fluid" src="/static/predict/{{ upload_image }}" alt=""  >
+                    </td>
+                </tr>
+
+            </table>
+            <br>
+            <table class="table table-bordered" style="border:solid black; background-color: #FFFFE0;">
+                <thead>
+                    <tr style="border:solid black;">
+                        <th colspan="2" class="text-center">Pest Detection Report</th>
+                    </tr>
+                </thead>
+                <tbody style="border:solid black;">
+                    <tr style="border:solid black;">
+                        <th>Number of Pests Detected  = <span style = "color:red;">{{no}}</span></th>
+                        
+                    </tr>
+                    <tr style="border:solid black;">
+                        <th>Class  = <span style = "color:red;"> {{text}}</span></th>
+                        
+                    </tr>
+                 
+                </tbody>
+            </table>
+
+        </div>
+    
+    {% endif %}
+</body>
+</html>
