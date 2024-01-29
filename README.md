@@ -3,21 +3,9 @@
 
  # INTRODUCTION
    
-Pest infestation represents a significant threat to agricultural fields, causing
-substantial damage to food crops. To combat this challenge, farmers often resort
-to the use of pesticides. However, the excessive application of these chemicals has
-raised concerns for the environment and human health. Pesticides have been
-linked to various health disorders, including asthma, eye and respiratory tract
-irritation, and skin cancer. Acknowledging the need for a more sustainable and
-accurate approach to pest control, the field of agriculture science is integrating
-image analysis techniques. Although current systems exist, their accuracy
-frequently falls short, necessitating advancements. Our project's goal is to enhance
-the precision of pest detection by leveraging cutting-edge machine learning
-algorithms like enhanced YOLO v5. By doing so, we aim to revolutionize crop
-management, minimize pesticide usage, and bolster overall crop production while
-addressing the limitations of existing methods. This initiative not only safeguards
-the environment and human health but also represents a significant stride towards
-sustainable and efficient pest management in agriculture.
+Agriculture, a cornerstone of human civilization, is the art and science of cultivating the soil to produce food, feed, fiber, and various other products. The vital role of agriculture in sustaining global populations underscores the importance of ensuring crop health and productivity. One of the significant challenges faced by farmers is the threat posed by pests, including insects, diseases, and weeds, which can jeopardize crop yields.
+
+Agricultural pest detection emerges as a crucial aspect of modern farming practices. Leveraging technologies such as sensors, imaging, and advanced data analysis, it aims to swiftly and accurately identify potential threats to crops. By doing so, farmers can implement targeted measures, ensuring timely interventions to safeguard their crops from the damaging impact of pests. This proactive approach not only enhances yields but also fosters sustainable farming practices, promoting the long-term health and resilience of agricultural ecosystems.
 
 # Objective 
 
