@@ -19,6 +19,10 @@ addressing the limitations of existing methods. This initiative not only safegua
 the environment and human health but also represents a significant stride towards
 sustainable and efficient pest management in agriculture.
 
+# Objective 
+
+The objective of agricultural pest detection is to identify and monitor potential threats to crops, such as insects, using various technologies like sensors, imaging, and data analysis. This helps farmers take timely and targeted actions to protect their crops, leading to improved yields and sustainable farming practices.
+
 # WHY ONEAPI
    
 
