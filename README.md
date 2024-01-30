@@ -16,6 +16,15 @@ The objective of agricultural pest detection is to identify and monitor potentia
 
 ![WhatsApp Video 2024-01-28 at 8 07 20 PM](https://github.com/SunilPrasad31/Effectual-Advancement-in-agriculture-Pest-Detection-With-Enhanced-YOLOv5/assets/145242357/9e358f1c-d947-431b-8bcd-131faab40b7d)
 
+# HOW TO RUN THIS PROJECT ?
+
+Steps to run this project:
+
+STEP 1: Download the models and the dataset from the drive link provided below.
+
+STEP 2: Clone the GitHub repository.
+
+STEP 3: Run the app.ipynb in the terminal of the project folder.
 
 # DATASET
 
@@ -33,12 +42,4 @@ The objective of agricultural pest detection is to identify and monitor potentia
 
 [5]	A lightweight SSV2-YOLO based model for detection of sugarcane aphids in unstructured natural environments.
 
-# HOW TO RUN THIS PROJECT ?
 
-Steps to run this project:
-
-STEP 1: Download the models and the weights from the drive link provided below.
-
-STEP 2: Clone the GitHub repository.
-
-STEP 3: Run the code provided below in the terminal of the project folder.
