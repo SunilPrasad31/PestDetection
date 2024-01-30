@@ -16,6 +16,7 @@ The objective of agricultural pest detection is to identify and monitor potentia
    
 ![20240130_234550](https://github.com/SunilPrasad31/PestDetection/assets/145242357/3ace9ccd-4bcd-404e-a6c9-716874a481b0)
 
+oneAPI optimization for deep learning focuses on enhancing performance across diverse hardware using key components. The oneDNN library provides finely-tuned primitives for fundamental operations in deep neural networks, optimizing efficiency on Intel CPUs, GPUs, and FPGAs. Data Parallel C++ (DPC++) enables developers to express parallelism in their code, generating optimized solutions adaptable to various hardware architectures. Intel GPU offload support allows offloading compute-intensive tasks to GPUs, unlocking their parallel processing capabilities for accelerated deep learning workloads. Additionally, vectorization and parallelization techniques are emphasized, leveraging modern hardware features for increased throughput and reduced execution times. This holistic approach, encompassing specialized libraries, high-level abstractions, and efficient hardware utilization, empowers developers to achieve superior performance and portability in their deep learning applications.
 
 # HOW TO RUN THIS PROJECT ?
 
@@ -30,6 +31,18 @@ STEP 3: Run the app.ipynb in the terminal of the project folder.
 # DATASET
 
 * Drive Link : https://drive.google.com/drive/folders/1mdLyeMlNJz5IAz-Gr5A6AOf8deUZl6oJ
+
+# OUTPUT
+
+
+
+
+
+https://github.com/SunilPrasad31/PestDetection/assets/145242357/e976d126-0095-44f6-b926-b70753aaaa56
+
+
+
+
 
 # REFERENCES
 
