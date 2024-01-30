@@ -52,6 +52,19 @@ This comprehensive approach isn't just a strategy; it's a transformative journey
 # FLOW CHART
 ![Screenshot_20240131_012218_Microsoft 365 (Office)](https://github.com/SunilPrasad31/PestDetection/assets/145242357/66e27ea0-6d63-4044-b5f7-bc5ba40e6576)
 
+    * Start: Capture images of pests in the agricultural field.
+
+    * Process: Analyze the captured images.
+
+    * Match Found?
+         * No: Pest not detected.
+         * Yes: Proceed to the next step.
+    * Detected Pest with Accuracy: Identify and report the detected pest with accuracy.
+
+    * Pest Not Detected: If no pest is detected, take necessary actions.
+
+    * Stop: End the process.
+
 # HOW TO RUN THIS PROJECT ?
 
 Steps to run this project:
