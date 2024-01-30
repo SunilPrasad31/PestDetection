@@ -1,5 +1,17 @@
 
 # PEST-DETECTION-IN-AGRICULTURAL-FIELD
+# Table of Content
+* OVERVIEW
+* INTRODUCTION
+* OBJECTIVE
+* WHY ONEAPI
+* FLOW CHART
+* HOW TO RUN THIS PROJECT?
+* DATASET
+* OUTPUT
+* FUTURE SCOPE
+* REFERENCES
+
 
 # OVERVIEW
 
@@ -15,7 +27,7 @@ In response to this challenge, agricultural pest detection emerges as an indispe
 
 This proactive and technology-driven approach not only augments agricultural yields but also serves as a vanguard for sustainable farming practices. By mitigating the reliance on broad-spectrum pesticides and embracing precision interventions, agricultural pest detection becomes an instrumental force in cultivating not just crops, but also long-term ecological health and resilience. In essence, it epitomizes a holistic strategy that harmonizes technology, scientific understanding, and environmental stewardship to fortify the foundations of global agriculture.
 
-# Objective 
+# OBJECTIVE 
 
 The primary goal of agricultural pest detection is to proactively identify and monitor potential threats to crops, specifically focusing on the early identification of detrimental insects. This process harnesses an array of cutting-edge technologies, including advanced sensors, high-resolution imaging, and sophisticated data analysis methods. By leveraging these technological tools, the agricultural industry aims to establish a comprehensive and real-time monitoring system for pest activities within crop fields.
 
