@@ -49,6 +49,9 @@ Moreover, this strategic optimization places a distinct emphasis on advanced vec
 
 This comprehensive approach isn't just a strategy; it's a transformative journey. Enshrining specialized libraries, high-level abstractions, and the utmost efficiency in hardware utilization, it stands as an advanced framework that empowers developers to not only attain but surpass unparalleled performance and portability in their intricate deep learning applications. In the symphony of computational excellence, oneAPI orchestrates a harmonious convergence of technology and innovation.
 
+# FLOW CHART
+![Screenshot_20240131_012218_Microsoft 365 (Office)](https://github.com/SunilPrasad31/PestDetection/assets/145242357/66e27ea0-6d63-4044-b5f7-bc5ba40e6576)
+
 # HOW TO RUN THIS PROJECT ?
 
 Steps to run this project:
@@ -63,6 +66,16 @@ STEP 3: Run the app.ipynb in the terminal of the project folder.
 
 * Drive Link : https://drive.google.com/drive/folders/1mdLyeMlNJz5IAz-Gr5A6AOf8deUZl6oJ
 
+* It Includes 9 Various Pest's
+    * Sawfly
+    * Bollworm	
+    * Aphids
+    * Armyworm
+    * Mosquito
+    * Grasshopper
+    * Mites
+    * Beetle
+    * Stem-Borer
 # OUTPUT
 
 
