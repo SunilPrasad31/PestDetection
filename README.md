@@ -1,3 +1,4 @@
+
 # PEST-DETECTION-IN-AGRICULTURAL-FIELD
 
 
@@ -13,8 +14,8 @@ The objective of agricultural pest detection is to identify and monitor potentia
 
 # WHY ONEAPI
    
+![20240130_234550](https://github.com/SunilPrasad31/PestDetection/assets/145242357/3ace9ccd-4bcd-404e-a6c9-716874a481b0)
 
-![WhatsApp Video 2024-01-28 at 8 07 20 PM](https://github.com/SunilPrasad31/Effectual-Advancement-in-agriculture-Pest-Detection-With-Enhanced-YOLOv5/assets/145242357/9e358f1c-d947-431b-8bcd-131faab40b7d)
 
 # HOW TO RUN THIS PROJECT ?
 
