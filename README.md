@@ -42,6 +42,7 @@ https://github.com/SunilPrasad31/PestDetection/assets/145242357/e976d126-0095-44
 
 
 
+# FUTURE SCOPE
 
 
 # REFERENCES
