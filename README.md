@@ -39,7 +39,15 @@ Ultimately, the integration of technology in agricultural pest detection fosters
    
 ![20240130_234550](https://github.com/SunilPrasad31/PestDetection/assets/145242357/3ace9ccd-4bcd-404e-a6c9-716874a481b0)
 
-oneAPI optimization for deep learning focuses on enhancing performance across diverse hardware using key components. The oneDNN library provides finely-tuned primitives for fundamental operations in deep neural networks, optimizing efficiency on Intel CPUs, GPUs, and FPGAs. Data Parallel C++ (DPC++) enables developers to express parallelism in their code, generating optimized solutions adaptable to various hardware architectures. Intel GPU offload support allows offloading compute-intensive tasks to GPUs, unlocking their parallel processing capabilities for accelerated deep learning workloads. Additionally, vectorization and parallelization techniques are emphasized, leveraging modern hardware features for increased throughput and reduced execution times. This holistic approach, encompassing specialized libraries, high-level abstractions, and efficient hardware utilization, empowers developers to achieve superior performance and portability in their deep learning applications.
+oneAPI's multifaceted optimization strategy for deep learning is meticulously designed to transcend performance across an expansive spectrum of diverse hardware environments, deploying key components with unparalleled precision and strategic acumen. At its epicenter lies the sophisticated oneDNN library, intricately fine-tuning primitives for fundamental operations within deep neural networks. This optimization prowess seamlessly extends across the intricate architectures of Intel CPUs, GPUs, and FPGAs, ensuring not just efficiency but the pinnacle of computational power.
+
+Empowering developers on this transformative journey is Data Parallel C++ (DPC++), a groundbreaking tool that allows an eloquent expression of parallelism in code. This yields solutions that gracefully adapt to the intricacies of various hardware architectures, forming a symphony of computational efficiency.
+
+The dynamic Intel GPU offload support ingeniously shifts compute-intensive tasks to GPUs, unlocking their formidable parallel processing capabilities and propelling accelerated deep learning workloads into the realms of unparalleled efficiency. This dynamic interplay of hardware prowess unleashes a new era of computational potential.
+
+Moreover, this strategic optimization places a distinct emphasis on advanced vectorization and parallelization techniques. Deftly harnessing modern hardware features, it doesn't just amplify throughput but reshapes the landscape of execution times, substantially reducing them.
+
+This comprehensive approach isn't just a strategy; it's a transformative journey. Enshrining specialized libraries, high-level abstractions, and the utmost efficiency in hardware utilization, it stands as an advanced framework that empowers developers to not only attain but surpass unparalleled performance and portability in their intricate deep learning applications. In the symphony of computational excellence, oneAPI orchestrates a harmonious convergence of technology and innovation.
 
 # HOW TO RUN THIS PROJECT ?
 
