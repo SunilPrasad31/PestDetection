@@ -123,4 +123,10 @@ https://github.com/SunilPrasad31/PestDetection/assets/145242357/7872d874-1852-41
 
 [5]	A lightweight SSV2-YOLO based model for detection of sugarcane aphids in unstructured natural environments.
 
+# TEAM MEMBER
+
+* Vishnu - https://github.com/R-Vishnu16
+* Joan Trishala - https://github.com/Joan-trishala
+* Eureka - https://github.com/Eurekacse
+
 
