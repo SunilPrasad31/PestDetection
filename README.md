@@ -125,6 +125,7 @@ https://github.com/SunilPrasad31/PestDetection/assets/145242357/7872d874-1852-41
 
 # TEAM MEMBER
 
+* Sunil Prasad - https://github.com/SunilPrasad31
 * Vishnu - https://github.com/R-Vishnu16
 * Joan Trishala - https://github.com/Joan-trishala
 * Eureka - https://github.com/Eurekacse
