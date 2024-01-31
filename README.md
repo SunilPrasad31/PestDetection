@@ -101,6 +101,15 @@ https://github.com/SunilPrasad31/PestDetection/assets/145242357/e976d126-0095-44
 
 # FUTURE SCOPE
 
+The future scope in agricultural pest detection involves advancements in technologies like AI, machine learning, and IoT. Implementing smart sensors, drones, and data analytics can enhance real-time monitoring, enabling early pest detection and targeted interventions. 
+
+This approach improves crop yield, reduces pesticide usage, and promotes sustainable farming practices. Integration of emerging technologies will play a crucial role in shaping the future of pest detection in agriculture.
+
+
+
+https://github.com/SunilPrasad31/PestDetection/assets/145242357/7872d874-1852-419d-b7f7-e9978a353153
+
+
 
 # REFERENCES
 
